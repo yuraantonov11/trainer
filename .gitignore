@@ -3,8 +3,6 @@
 # Logs
 logs
 *.log
-npm-debug.log*
-
 # Runtime data
 pids
 *.pid
@@ -39,7 +37,6 @@ jspm_packages
 
 # IntelliJ project files
 .idea
-*.iml
 out
 gen### SublimeText template
 # cache files for sublime text
@@ -61,12 +58,7 @@ sftp-config.json
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff:
-.idea/workspace.xml
 .idea/tasks.xml
-.idea/dictionaries
-.idea/vcs.xml
-.idea/jsLibraryMappings.xml
-
 # Sensitive or high-churn files:
 .idea/dataSources.ids
 .idea/dataSources.xml
@@ -76,10 +68,7 @@ sftp-config.json
 .idea/uiDesigner.xml
 
 # Gradle:
-/node_modules
 .idea/gradle.xml
-.idea/libraries
-
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
 
